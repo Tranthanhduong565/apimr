@@ -1,0 +1,36 @@
+{
+    "name": "mzkil",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "keywords": [],
+    "author": "MạnhG",
+    "license": "ISC",
+    "devDependencies": {
+        "body-parser": "^1.17.2",
+        "ejs": "^2.5.7",
+        "express": "^4.17.3",
+        "nodemon": "^2.0.7"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "canvas": "^2.8.0",
+        "cors": "^2.8.5",
+        "express-rate-limit": "^5.5.1",
+        "fetch": "^1.1.0",
+        "fs": "^0.0.1-security",
+        "fs-extra": "^10.0.0",
+        "gifencoder": "^2.0.1",
+        "helmet": "^5.0.1",
+        "ipware": "^2.0.0",
+        "jimp": "^0.16.1",
+        "md5": "^2.3.0",
+        "moment-timezone": "^0.5.34",
+        "node-superfetch": "^0.2.3",
+        "puppeteer": "^13.0.1",
+        "request": "^2.88.2",
+        "string-similarity": "^4.0.4"
+    }
+}

@@ -1,0 +1,3788 @@
+{
+    "listAnime": [{
+            "ID": 1,
+            "name": "Boy 1",
+            "color": "#f8ca3e"
+        },
+        {
+            "ID": 2,
+            "name": "Boy 2",
+            "color": "#9fc177"
+        },
+        {
+            "ID": 3,
+            "name": "Boy 3",
+            "color": "#3f4a8a"
+        },
+        {
+            "ID": 4,
+            "name": "Boy 4",
+            "color": "#e2bc5f"
+        },
+        {
+            "ID": 5,
+            "name": "Boy 5",
+            "color": "#345763"
+        },
+        {
+            "ID": 6,
+            "name": "Girl 1",
+            "color": "#8cbcc7"
+        },
+        {
+            "ID": 7,
+            "name": "Girl 2",
+            "color": "#d2c5b4"
+        },
+        {
+            "ID": 8,
+            "name": "Saotome Mary",
+            "color": "#c14b54"
+        },
+        {
+            "ID": 9,
+            "name": "Amu hinamori",
+            "color": "#f690a8"
+        },
+        {
+            "ID": 10,
+            "name": "Mikey",
+            "color": "#8da83f"
+        },
+        {
+            "ID": 11,
+            "name": "Mahiru Banba",
+            "color": "#9892d1"
+        },
+        {
+            "ID": 12,
+            "name": "Adagaki aki",
+            "color": "#e5abcc"
+        },
+        {
+            "ID": 13,
+            "name": "Aishia",
+            "color": "#fbadd0"
+        },
+        {
+            "ID": 14,
+            "name": "Isaac Foster",
+            "color": "#66585b"
+        },
+        {
+            "ID": 15,
+            "name": "Owen knight",
+            "color": "#a0a0a0"
+        },
+        {
+            "ID": 16,
+            "name": "Geordo Stuart",
+            "color": "#f7ba59"
+        },
+        {
+            "ID": 17,
+            "name": "Ishigami Yu",
+            "color": "#71b8c8"
+        },
+        {
+            "ID": 18,
+            "name": "Shinra kusakabe",
+            "color": "#6ec9db"
+        },
+        {
+            "ID": 19,
+            "name": "Rai",
+            "color": "#9b1418"
+        },
+        {
+            "ID": 20,
+            "name": "Kouko kaga",
+            "color": "#fa9a4c"
+        },
+        {
+            "ID": 21,
+            "name": "Talulah",
+            "color": "#1f0e0e"
+        },
+        {
+            "ID": 22,
+            "name": "Lirin",
+            "color": "#ef94ac"
+        },
+        {
+            "ID": 23,
+            "name": "Mikaela Hyakuya",
+            "color": "#42373b"
+        },
+        {
+            "ID": 24,
+            "name": "Hanakoizumi",
+            "color": "#f6b857"
+        },
+        {
+            "ID": 25,
+            "name": "Noir Stadia",
+            "color": "#56d087"
+        },
+        {
+            "ID": 26,
+            "name": "Archer",
+            "color": "#ab9b9b"
+        },
+        {
+            "ID": 27,
+            "name": "Masuzu Natsukawa",
+            "color": "#8d9bde"
+        },
+        {
+            "ID": 28,
+            "name": "Noriko Sonozaki",
+            "color": "#5c9ad9"
+        },
+        {
+            "ID": 29,
+            "name": "Yuu mashiro",
+            "color": "#6cc0b4"
+        },
+        {
+            "ID": 30,
+            "name": "Hoshizaki Rika",
+            "color": "#f5a56b"
+        },
+        {
+            "ID": 31,
+            "name": "Morgiana",
+            "color": "#f56b99"
+        },
+        {
+            "ID": 32,
+            "name": "Asuka Tanaka",
+            "color": "#c6a67b"
+        },
+        {
+            "ID": 33,
+            "name": "Asuka Tanaka",
+            "color": "#6db2e3"
+        },
+        {
+            "ID": 34,
+            "name": "Bojji",
+            "color": "#4e8ad0"
+        },
+        {
+            "ID": 35,
+            "name": "Harry potter",
+            "color": "#bf2121"
+        },
+        {
+            "ID": 36,
+            "name": "Tanya degurechaff",
+            "color": "#679066"
+        },
+        {
+            "ID": 37,
+            "name": "Sanae",
+            "color": "#85c276"
+        },
+        {
+            "ID": 38,
+            "name": "Jail",
+            "color": "#6364b3"
+        },
+        {
+            "ID": 39,
+            "name": "Licht Bach",
+            "color": "#b0374b"
+        },
+        {
+            "ID": 40,
+            "name": "Menhera",
+            "color": "#f88c93"
+        },
+        {
+            "ID": 41,
+            "name": "Catarina",
+            "color": "#3ab0d5"
+        },
+        {
+            "ID": 42,
+            "name": "Isuzu Sento",
+            "color": "#cb362e"
+        },
+        {
+            "ID": 43,
+            "name": "Kyaru",
+            "color": "#9888ae"
+        },
+        {
+            "ID": 44,
+            "name": "Meliodas",
+            "color": "#fcb84c"
+        },
+        {
+            "ID": 45,
+            "name": "Fumino Furuhashi",
+            "color": "#6b9df1"
+        },
+        {
+            "ID": 46,
+            "name": "Hajime hinata",
+            "color": "#677b5d"
+        },
+        {
+            "ID": 47,
+            "name": "Nanami",
+            "color": "#5997a5"
+        },
+        {
+            "ID": 48,
+            "name": "Leonardo",
+            "color": "#3475d7"
+        },
+        {
+            "ID": 49,
+            "name": "Matsuda Takato",
+            "color": "#31acea"
+        },
+        {
+            "ID": 50,
+            "name": "Sung jinwoo",
+            "color": "#294c6d"
+        },
+        {
+            "ID": 51,
+            "name": "Hachiman",
+            "color": "#3c7cd4"
+        },
+        {
+            "ID": 52,
+            "name": "Nadeshiko",
+            "color": "#ff8fc3"
+        },
+        {
+            "ID": 53,
+            "name": "Ichika Usami",
+            "color": "#f977bf"
+        },
+        {
+            "ID": 54,
+            "name": "Yuri ayato",
+            "color": "#e87797"
+        },
+        {
+            "ID": 55,
+            "name": "Tanaka",
+            "color": "#b38d70"
+        },
+        {
+            "ID": 56,
+            "name": "Haku",
+            "color": "#5a9dc4"
+        },
+        {
+            "ID": 57,
+            "name": "Kaonashi",
+            "color": "#9c9c9c"
+        },
+        {
+            "ID": 58,
+            "name": "Rachel gardner",
+            "color": "#f4c790"
+        },
+        {
+            "ID": 59,
+            "name": "Beelzebub",
+            "color": "#2ed177"
+        },
+        {
+            "ID": 60,
+            "name": "Hanamichi Sakuragi",
+            "color": "#d02a21"
+        },
+        {
+            "ID": 61,
+            "name": "Claude De-Alger-Obelia",
+            "color": "#e4b653"
+        },
+        {
+            "ID": 62,
+            "name": "Shophie",
+            "color": "#5492b9"
+        },
+        {
+            "ID": 63,
+            "name": "Raki kiseki",
+            "color": "#28a0bc"
+        },
+        {
+            "ID": 64,
+            "name": "Noé Archiviste",
+            "color": "#6a5dca"
+        },
+        {
+            "ID": 65,
+            "name": "NOE ARCHIVISTE",
+            "color": "#9892d1"
+        },
+        {
+            "ID": 66,
+            "name": "Akutagawa Ryuunosuke",
+            "color": "#6152d0"
+        },
+        {
+            "ID": 67,
+            "name": "Sakurayashiki",
+            "color": "#d879b1"
+        },
+        {
+            "ID": 68,
+            "name": "Yukihana Lamy",
+            "color": "#63aae7"
+        },
+        {
+            "ID": 69,
+            "name": "Unmei",
+            "color": "#d83e49"
+        },
+        {
+            "ID": 70,
+            "name": "Takt Asahina",
+            "color": "#65a2c2"
+        },
+        {
+            "ID": 71,
+            "name": "Keiji akaashi",
+            "color": "#f2d85e"
+        },
+        {
+            "ID": 72,
+            "name": "Ruv",
+            "color": "#ae86c0"
+        },
+        {
+            "ID": 73,
+            "name": "Sarvente",
+            "color": "#fc4fa5"
+        },
+        {
+            "ID": 74,
+            "name": "Selever",
+            "color": "#d85bab"
+        },
+        {
+            "ID": 75,
+            "name": "Pico",
+            "color": "#ffca4a"
+        },
+        {
+            "ID": 76,
+            "name": "Mieruko",
+            "color": "#f7c35e"
+        },
+        {
+            "ID": 77,
+            "name": "Maki Harukawa",
+            "color": "#b33a31"
+        },
+        {
+            "ID": 78,
+            "name": "Kaneki ken",
+            "color": "#b22a2a"
+        },
+        {
+            "ID": 79,
+            "name": "Yoshimura eto",
+            "color": "#6f253e"
+        },
+        {
+            "ID": 80,
+            "name": "Nanami Kento",
+            "color": "#2a6ac0"
+        },
+        {
+            "ID": 81,
+            "name": "Tomoe",
+            "color": "#60ced9"
+        },
+        {
+            "ID": 82,
+            "name": "Gilgamesh caster",
+            "color": "#f9c24c"
+        },
+        {
+            "ID": 83,
+            "name": "Gilgamesh",
+            "color": "#829fbc"
+        },
+        {
+            "ID": 84,
+            "name": "Vanitas",
+            "color": "#4c91cb"
+        },
+        {
+            "ID": 85,
+            "name": "Makima",
+            "color": "#ea3d4d"
+        },
+        {
+            "ID": 86,
+            "name": "Sakuma Ritsu",
+            "color": "#4687c3"
+        },
+        {
+            "ID": 87,
+            "name": "Louis",
+            "color": "#776ec9"
+        },
+        {
+            "ID": 88,
+            "name": "Luminous valentine",
+            "color": "#776ec9"
+        },
+        {
+            "ID": 89,
+            "name": "Adam",
+            "color": "#62c84e"
+        },
+        {
+            "ID": 90,
+            "name": "Eula",
+            "color": "#5a8bd7"
+        },
+        {
+            "ID": 91,
+            "name": "SOPMOD",
+            "color": "#e1393f"
+        },
+        {
+            "ID": 92,
+            "name": "Shu kurenai",
+            "color": "#b43c4e"
+        },
+        {
+            "ID": 93,
+            "name": "Shinomiya Kaguya",
+            "color": "#d1373d"
+        },
+        {
+            "ID": 94,
+            "name": "Rin shima",
+            "color": "#7099d6"
+        },
+        {
+            "ID": 95,
+            "name": "Starfire",
+            "color": "#af2b38"
+        },
+        {
+            "ID": 96,
+            "name": "Reven",
+            "color": "#855fee"
+        },
+        {
+            "ID": 97,
+            "name": "Ayano aishi",
+            "color": "#425cba"
+        },
+        {
+            "ID": 98,
+            "name": "Saiki kusuo",
+            "color": "#2ec38b"
+        },
+        {
+            "ID": 99,
+            "name": "Fuwa",
+            "color": "#6bd0f1"
+        },
+        {
+            "ID": 100,
+            "name": "Sans",
+            "color": "#347fd8"
+        },
+        {
+            "ID": 101,
+            "name": "Senko",
+            "color": "#f5a933"
+        },
+        {
+            "ID": 102,
+            "name": "Ceres fauna",
+            "color": "#64c4a7"
+        },
+        {
+            "ID": 103,
+            "name": "Chara",
+            "color": "#70bd6b"
+        },
+        {
+            "ID": 104,
+            "name": "Souei",
+            "color": "#6b8aad"
+        },
+        {
+            "ID": 105,
+            "name": "Lala satalin-deviluke",
+            "color": "#57a5b1"
+        },
+        {
+            "ID": 106,
+            "name": "Rudeus",
+            "color": "#eb494a"
+        },
+        {
+            "ID": 107,
+            "name": "Kuma bear",
+            "color": "#8ab0e0"
+        },
+        {
+            "ID": 108,
+            "name": "Adnachiel",
+            "color": "#4242f2"
+        },
+        {
+            "ID": 109,
+            "name": "Subaru",
+            "color": "#3cb3d1"
+        },
+        {
+            "ID": 110,
+            "name": "Baki",
+            "color": "#fc5048"
+        },
+        {
+            "ID": 111,
+            "name": "Chtholly",
+            "color": "#66a4ed"
+        },
+        {
+            "ID": 112,
+            "name": "Nier",
+            "color": "#c8bfb4"
+        },
+        {
+            "ID": 113,
+            "name": "Amatsuka",
+            "color": "#f28258"
+        },
+        {
+            "ID": 114,
+            "name": "Totoro",
+            "color": "#c5b388"
+        },
+        {
+            "ID": 115,
+            "name": "Naofumi",
+            "color": "#64d252"
+        },
+        {
+            "ID": 116,
+            "name": "Yuma kuga",
+            "color": "#e63030"
+        },
+        {
+            "ID": 117,
+            "name": "Queen",
+            "color": "#b378e6"
+        },
+        {
+            "ID": 118,
+            "name": "Yuuko kanoe",
+            "color": "#b91c1c"
+        },
+        {
+            "ID": 119,
+            "name": "Yukinoshita",
+            "color": "#338edb"
+        },
+        {
+            "ID": 120,
+            "name": "Juliet persia",
+            "color": "#47a3e9"
+        },
+        {
+            "ID": 121,
+            "name": "Ichigo",
+            "color": "#f7922f"
+        },
+        {
+            "ID": 122,
+            "name": "Amelia watson",
+            "color": "#ed926e"
+        },
+        {
+            "ID": 123,
+            "name": "Kambe daisuke",
+            "color": "#ac4639"
+        },
+        {
+            "ID": 124,
+            "name": "Ishigami Senku",
+            "color": "#30b05d"
+        },
+        {
+            "ID": 125,
+            "name": "Tomie",
+            "color": "#5e4fd0"
+        },
+        {
+            "ID": 126,
+            "name": "Roxy",
+            "color": "#5173f2"
+        },
+        {
+            "ID": 127,
+            "name": "Sylphy",
+            "color": "#9ed463"
+        },
+        {
+            "ID": 128,
+            "name": "Eris",
+            "color": "#da3b45"
+        },
+        {
+            "ID": 129,
+            "name": "Nasa",
+            "color": "#48cbb7"
+        },
+        {
+            "ID": 130,
+            "name": "Misono alicein",
+            "color": "#791da0"
+        },
+        {
+            "ID": 131,
+            "name": "Power",
+            "color": "#d33838"
+        },
+        {
+            "ID": 132,
+            "name": "Uesugi fuutarou",
+            "color": "#547ac7"
+        },
+        {
+            "ID": 133,
+            "name": "Shiki",
+            "color": "#d92d25"
+        },
+        {
+            "ID": 134,
+            "name": "Tsukasa",
+            "color": "#924bfd"
+        },
+        {
+            "ID": 135,
+            "name": "Yuzaki masa",
+            "color": "#72b1a9"
+        },
+        {
+            "ID": 136,
+            "name": "Chika",
+            "color": "#ef6f89"
+        },
+        {
+            "ID": 137,
+            "name": "Sawada",
+            "color": "#f24917"
+        },
+        {
+            "ID": 138,
+            "name": "Ouro kronii",
+            "color": "#319be1"
+        },
+        {
+            "ID": 139,
+            "name": "Nao tomori",
+            "color": "#d6425d"
+        },
+        {
+            "ID": 140,
+            "name": "Nanashi mumei",
+            "color": "#1bbbc5"
+        },
+        {
+            "ID": 141,
+            "name": "Howl",
+            "color": "#5b73a5"
+        },
+        {
+            "ID": 142,
+            "name": "Juuzou",
+            "color": "#c43432"
+        },
+        {
+            "ID": 143,
+            "name": "Yamauchi sakura",
+            "color": "#64608a"
+        },
+        {
+            "ID": 144,
+            "name": "Emilia",
+            "color": "#a372c2"
+        },
+        {
+            "ID": 145,
+            "name": "Runa",
+            "color": "#ee8c6f"
+        },
+        {
+            "ID": 146,
+            "name": "Gintoki",
+            "color": "#6984b7"
+        },
+        {
+            "ID": 147,
+            "name": "Raphtalia",
+            "color": "#d58390"
+        },
+        {
+            "ID": 148,
+            "name": "Ai ohto",
+            "color": "#498ce0"
+        },
+        {
+            "ID": 149,
+            "name": "Kaguya",
+            "color": "#cf332b"
+        },
+        {
+            "ID": 150,
+            "name": "Albedo",
+            "color": "#5d598f"
+        },
+        {
+            "ID": 151,
+            "name": "Ainz ooal-gown",
+            "color": "#9463bf"
+        },
+        {
+            "ID": 152,
+            "name": "Ruby rose",
+            "color": "#1f1c25"
+        },
+        {
+            "ID": 153,
+            "name": "Bakura ryou",
+            "color": "#7798ab"
+        },
+        {
+            "ID": 154,
+            "name": "Marik ishtar",
+            "color": "#75648c"
+        },
+        {
+            "ID": 155,
+            "name": "Kiyotaka ayanokÅji",
+            "color": "#ae3758"
+        },
+        {
+            "ID": 156,
+            "name": "Inuyasha",
+            "color": "#b33232"
+        },
+        {
+            "ID": 157,
+            "name": "Sistine fibel",
+            "color": "#7066a4"
+        },
+        {
+            "ID": 158,
+            "name": "Syalis",
+            "color": "#ae9bc9"
+        },
+        {
+            "ID": 159,
+            "name": "Rei ayanami",
+            "color": "#8184c0"
+        },
+        {
+            "ID": 160,
+            "name": "Shigeo kageyama",
+            "color": "#56377a"
+        },
+        {
+            "ID": 161,
+            "name": "Elaina",
+            "color": "#9e80af"
+        },
+        {
+            "ID": 162,
+            "name": "Mirai",
+            "color": "#e08e7c"
+        },
+        {
+            "ID": 163,
+            "name": "Umaru",
+            "color": "#ee8c44"
+        },
+        {
+            "ID": 164,
+            "name": "Violet",
+            "color": "#71a7d4"
+        },
+        {
+            "ID": 165,
+            "name": "Izumi sagiri",
+            "color": "#4eadd0"
+        },
+        {
+            "ID": 166,
+            "name": "Sagiri",
+            "color": "#32d3be"
+        },
+        {
+            "ID": 167,
+            "name": "Hiroomi",
+            "color": "#8ca5d6"
+        },
+        {
+            "ID": 168,
+            "name": "Kenma",
+            "color": "#6ebed2"
+        },
+        {
+            "ID": 169,
+            "name": "Siesta",
+            "color": "#70a8e1"
+        },
+        {
+            "ID": 170,
+            "name": "Anos",
+            "color": "#57668b"
+        },
+        {
+            "ID": 171,
+            "name": "Shin",
+            "color": "#de4646"
+        },
+        {
+            "ID": 172,
+            "name": "Usagi tsukino",
+            "color": "#6fb6e8"
+        },
+        {
+            "ID": 173,
+            "name": "Cherry",
+            "color": "#c48091"
+        },
+        {
+            "ID": 174,
+            "name": "Yumeko",
+            "color": "#ba312b"
+        },
+        {
+            "ID": 175,
+            "name": "Dimaria yesta",
+            "color": "#3f040c"
+        },
+        {
+            "ID": 176,
+            "name": "Amajiki",
+            "color": "#515480"
+        },
+        {
+            "ID": 177,
+            "name": "Langa",
+            "color": "#56789e"
+        },
+        {
+            "ID": 178,
+            "name": "Kuroko",
+            "color": "#499bba"
+        },
+        {
+            "ID": 179,
+            "name": "Jinmori",
+            "color": "#db432a"
+        },
+        {
+            "ID": 180,
+            "name": "Naraku",
+            "color": "#9a739c"
+        },
+        {
+            "ID": 181,
+            "name": "Sesshoumaru",
+            "color": "#d93931"
+        },
+        {
+            "ID": 182,
+            "name": "Tomoe",
+            "color": "#6d7094"
+        },
+        {
+            "ID": 183,
+            "name": "Luna",
+            "color": "#db98c1"
+        },
+        {
+            "ID": 184,
+            "name": "Uzaki",
+            "color": "#5b7eae"
+        },
+        {
+            "ID": 185,
+            "name": "Chaheain",
+            "color": "#581f27"
+        },
+        {
+            "ID": 186,
+            "name": "Kahono",
+            "color": "#ca3838"
+        },
+        {
+            "ID": 187,
+            "name": "Loremaster",
+            "color": "#cd3333"
+        },
+        {
+            "ID": 188,
+            "name": "Asuka",
+            "color": "#f74545"
+        },
+        {
+            "ID": 189,
+            "name": "Reze",
+            "color": "#678ee6"
+        },
+        {
+            "ID": 190,
+            "name": "Hajime Nagumo",
+            "color": "#d53535"
+        },
+        {
+            "ID": 191,
+            "name": "Emma",
+            "color": "#fb9245"
+        },
+        {
+            "ID": 192,
+            "name": "Karin",
+            "color": "#e68599"
+        },
+        {
+            "ID": 193,
+            "name": "Sayu ogiwara",
+            "color": "#bea581"
+        },
+        {
+            "ID": 194,
+            "name": "Tanjiro",
+            "color": "#4cba93"
+        },
+        {
+            "ID": 195,
+            "name": "Tanjiro",
+            "color": "#3da6df"
+        },
+        {
+            "ID": 196,
+            "name": "Tanjiro",
+            "color": "#40bf8c"
+        },
+        {
+            "ID": 197,
+            "name": "Zenitsu",
+            "color": "#fabd4b"
+        },
+        {
+            "ID": 198,
+            "name": "Zenitsu",
+            "color": "#f0ae3d"
+        },
+        {
+            "ID": 199,
+            "name": "Zenitsu",
+            "color": "#fdcd59"
+        },
+        {
+            "ID": 200,
+            "name": "Inosuke",
+            "color": "#a58266"
+        },
+        {
+            "ID": 201,
+            "name": "Inosuke",
+            "color": "#4c7ebd"
+        },
+        {
+            "ID": 202,
+            "name": "Inosuke",
+            "color": "#6493ea"
+        },
+        {
+            "ID": 203,
+            "name": "Nezuko",
+            "color": "#ffa6ac"
+        },
+        {
+            "ID": 204,
+            "name": "Nezuko",
+            "color": "#edb6b2"
+        },
+        {
+            "ID": 205,
+            "name": "Nezuko",
+            "color": "#ef7094"
+        },
+        {
+            "ID": 206,
+            "name": "Tomioka giyuu",
+            "color": "#223657"
+        },
+        {
+            "ID": 207,
+            "name": "Tomioka giyuu",
+            "color": "#039df6"
+        },
+        {
+            "ID": 208,
+            "name": "Tomioka giyuu",
+            "color": "#6284e5"
+        },
+        {
+            "ID": 209,
+            "name": "Kocho shinobu",
+            "color": "#ae9dd9"
+        },
+        {
+            "ID": 210,
+            "name": "Kocho shinobu",
+            "color": "#837fcb"
+        },
+        {
+            "ID": 211,
+            "name": "Kocho shinobu",
+            "color": "#9787db"
+        },
+        {
+            "ID": 212,
+            "name": "Rengoku kyojuro",
+            "color": "#f7b431"
+        },
+        {
+            "ID": 213,
+            "name": "Uzui tengen",
+            "color": "#d52d2d"
+        },
+        {
+            "ID": 214,
+            "name": "Uzui tengen",
+            "color": "#9e525e"
+        },
+        {
+            "ID": 215,
+            "name": "Kanroji mitsuri",
+            "color": "#aecd40"
+        },
+        {
+            "ID": 216,
+            "name": "Himejima gyomei",
+            "color": "#9f9a4f"
+        },
+        {
+            "ID": 217,
+            "name": "Tokito muichiro",
+            "color": "#2c8889"
+        },
+        {
+            "ID": 218,
+            "name": "Iguro obanai",
+            "color": "#5b2eef"
+        },
+        {
+            "ID": 219,
+            "name": "Shinazugawa sanemi",
+            "color": "#669c50"
+        },
+        {
+            "ID": 220,
+            "name": "Kocho kanae",
+            "color": "#852dd5"
+        },
+        {
+            "ID": 221,
+            "name": "Yoriichi",
+            "color": "#b83b2e"
+        },
+        {
+            "ID": 222,
+            "name": "Yorichi",
+            "color": "#a24b50"
+        },
+        {
+            "ID": 223,
+            "name": "Kanao",
+            "color": "#9e3ff4"
+        },
+        {
+            "ID": 224,
+            "name": "Aoi kanzaki",
+            "color": "#656fcc"
+        },
+        {
+            "ID": 225,
+            "name": "Sabito",
+            "color": "#9b9cc5"
+        },
+        {
+            "ID": 226,
+            "name": "Makomo",
+            "color": "#ec8aa1"
+        },
+        {
+            "ID": 227,
+            "name": "Muzan",
+            "color": "#f13c1e"
+        },
+        {
+            "ID": 228,
+            "name": "Kokushibou",
+            "color": "#9c2e32"
+        },
+        {
+            "ID": 229,
+            "name": "Douma",
+            "color": "#842a3f"
+        },
+        {
+            "ID": 230,
+            "name": "Akaza",
+            "color": "#df94a7"
+        },
+        {
+            "ID": 231,
+            "name": "Hantengu",
+            "color": "#f2b335"
+        },
+        {
+            "ID": 232,
+            "name": "Gyokko",
+            "color": "#9c4da5"
+        },
+        {
+            "ID": 233,
+            "name": "Daki",
+            "color": "#d73359"
+        },
+        {
+            "ID": 234,
+            "name": "Kaigaku",
+            "color": "#5390d7"
+        },
+        {
+            "ID": 235,
+            "name": "Rui",
+            "color": "#881d2c"
+        },
+        {
+            "ID": 236,
+            "name": "Tamayo",
+            "color": "#9661c7"
+        },
+        {
+            "ID": 237,
+            "name": "Isagi",
+            "color": "#4ab7e4"
+        },
+        {
+            "ID": 238,
+            "name": "Bachira",
+            "color": "#ffe146"
+        },
+        {
+            "ID": 239,
+            "name": "Chigiri",
+            "color": "#d85e70"
+        },
+        {
+            "ID": 240,
+            "name": "Nagi",
+            "color": "#03e4ff"
+        },
+        {
+            "ID": 241,
+            "name": "Kimihiko Kimizuka",
+            "color": "#7ca5e2"
+        },
+        {
+            "ID": 242,
+            "name": "Siesta",
+            "color": "#5d8db5"
+        },
+        {
+            "ID": 243,
+            "name": "Siesta",
+            "color": "#5f88b8"
+        },
+        {
+            "ID": 244,
+            "name": "Nagisa Natsunagi",
+            "color": "#7ca5e2"
+        },
+        {
+            "ID": 245,
+            "name": "Oreki",
+            "color": "#2b587e"
+        },
+        {
+            "ID": 246,
+            "name": "Chitanda eru",
+            "color": "#80729a"
+        },
+        {
+            "ID": 247,
+            "name": "Tohru",
+            "color": "#ffc560"
+        },
+        {
+            "ID": 248,
+            "name": "Elma",
+            "color": "#6767e6"
+        },
+        {
+            "ID": 249,
+            "name": "Ilulu",
+            "color": "#d781c2"
+        },
+        {
+            "ID": 250,
+            "name": "Kanna kamui",
+            "color": "#eb9ead"
+        },
+        {
+            "ID": 251,
+            "name": "Lucoa",
+            "color": "#abca5b"
+        },
+        {
+            "ID": 252,
+            "name": "Sakuta azusagawa",
+            "color": "#c19674"
+        },
+        {
+            "ID": 253,
+            "name": "Mai sakurajima",
+            "color": "#717ad3"
+        },
+        {
+            "ID": 254,
+            "name": "Mai sakurajima",
+            "color": "#5872a3"
+        },
+        {
+            "ID": 255,
+            "name": "Azusagawa Kaede",
+            "color": "#92706b"
+        },
+        {
+            "ID": 256,
+            "name": "Tomoe Koga",
+            "color": "#d8ac88"
+        },
+        {
+            "ID": 257,
+            "name": "Futaba rio",
+            "color": "#ae9e82"
+        },
+        {
+            "ID": 258,
+            "name": "Tokoyami Towa",
+            "color": "#ff9ec3"
+        },
+        {
+            "ID": 259,
+            "name": "Pekora",
+            "color": "#738dd8"
+        },
+        {
+            "ID": 260,
+            "name": "Nekomata okayu",
+            "color": "#a151e5"
+        },
+        {
+            "ID": 261,
+            "name": "Sleepy ash",
+            "color": "#58a5d6"
+        },
+        {
+            "ID": 262,
+            "name": "Uto amatsuka",
+            "color": "#3ba9ef"
+        },
+        {
+            "ID": 263,
+            "name": "Kanata",
+            "color": "#5aaef8"
+        },
+        {
+            "ID": 264,
+            "name": "Banchou",
+            "color": "#ff973a"
+        },
+        {
+            "ID": 265,
+            "name": "Kronii",
+            "color": "#deb94a"
+        },
+        {
+            "ID": 266,
+            "name": "Fubuki",
+            "color": "#31b1e1"
+        },
+        {
+            "ID": 267,
+            "name": "Du ca",
+            "color": "#ff99b6"
+        },
+        {
+            "ID": 268,
+            "name": "Hoshimachi suisei",
+            "color": "#68a2dc"
+        },
+        {
+            "ID": 269,
+            "name": "Tsunomaki Watame",
+            "color": "#e8a593"
+        },
+        {
+            "ID": 270,
+            "name": "Nakiri Ayame",
+            "color": "#b71e2d"
+        },
+        {
+            "ID": 271,
+            "name": "Ookami Mio",
+            "color": "#f72e38"
+        },
+        {
+            "ID": 272,
+            "name": "Rushia",
+            "color": "#17bbb9"
+        },
+        {
+            "ID": 273,
+            "name": "Gura",
+            "color": "#5ea9d4"
+        },
+        {
+            "ID": 274,
+            "name": "Shirogane noel",
+            "color": "#7ccc5a"
+        },
+        {
+            "ID": 275,
+            "name": "Noelle",
+            "color": "#ed6793"
+        },
+        {
+            "ID": 276,
+            "name": "Paimon",
+            "color": "#f5b274"
+        },
+        {
+            "ID": 277,
+            "name": "Rosaria",
+            "color": "#ad344d"
+        },
+        {
+            "ID": 278,
+            "name": "Zhongli",
+            "color": "#fac542"
+        },
+        {
+            "ID": 279,
+            "name": "Kaedehara kazuha",
+            "color": "#d1362e"
+        },
+        {
+            "ID": 280,
+            "name": "Scaramouche",
+            "color": "#f57c4d"
+        },
+        {
+            "ID": 281,
+            "name": "Tartaglia",
+            "color": "#5e8ed4"
+        },
+        {
+            "ID": 282,
+            "name": "Diluc ragnvindr",
+            "color": "#b62918"
+        },
+        {
+            "ID": 283,
+            "name": "Razor",
+            "color": "#b0b453"
+        },
+        {
+            "ID": 284,
+            "name": "Bennet",
+            "color": "#3cc725"
+        },
+        {
+            "ID": 285,
+            "name": "Mona",
+            "color": "#7d58de"
+        },
+        {
+            "ID": 286,
+            "name": "Sayu",
+            "color": "#ff9e2e"
+        },
+        {
+            "ID": 287,
+            "name": "Venti",
+            "color": "#179a6a"
+        },
+        {
+            "ID": 288,
+            "name": "Hutao",
+            "color": "#e44335"
+        },
+        {
+            "ID": 289,
+            "name": "Hutao",
+            "color": "#d34f42"
+        },
+        {
+            "ID": 290,
+            "name": "Lisa",
+            "color": "#86679a"
+        },
+        {
+            "ID": 291,
+            "name": "Keqing",
+            "color": "#6a4e90"
+        },
+        {
+            "ID": 292,
+            "name": "Fischl",
+            "color": "#59a1c9"
+        },
+        {
+            "ID": 293,
+            "name": "Jean",
+            "color": "#8669aa"
+        },
+        {
+            "ID": 294,
+            "name": "Ganyu",
+            "color": "#5f8bb6"
+        },
+        {
+            "ID": 295,
+            "name": "Raiden Shogun",
+            "color": "#7971b2"
+        },
+        {
+            "ID": 296,
+            "name": "Aether",
+            "color": "#e4b671"
+        },
+        {
+            "ID": 297,
+            "name": "Lumine",
+            "color": "#6f9fc4"
+        },
+        {
+            "ID": 298,
+            "name": "Klee",
+            "color": "#d64131"
+        },
+        {
+            "ID": 299,
+            "name": "Xiao",
+            "color": "#359e9b"
+        },
+        {
+            "ID": 300,
+            "name": "Gorou",
+            "color": "#d68c48"
+        },
+        {
+            "ID": 301,
+            "name": "Yae miko",
+            "color": "#fa8da1"
+        },
+        {
+            "ID": 302,
+            "name": "Qiqi trinh",
+            "color": "#8681ac"
+        },
+        {
+            "ID": 303,
+            "name": "Ayaka",
+            "color": "#829fbc"
+        },
+        {
+            "ID": 304,
+            "name": "Kiana",
+            "color": "#ffb243"
+        },
+        {
+            "ID": 305,
+            "name": "Seele vollerei",
+            "color": "#5469ed"
+        },
+        {
+            "ID": 306,
+            "name": "Yae sakura",
+            "color": "#ec95ae"
+        },
+        {
+            "ID": 307,
+            "name": "Raiden mei-herrscher",
+            "color": "#d22a3c"
+        },
+        {
+            "ID": 308,
+            "name": "Raiden mei",
+            "color": "#5c74ce"
+        },
+        {
+            "ID": 309,
+            "name": "Tracer",
+            "color": "#f8c335"
+        },
+        {
+            "ID": 310,
+            "name": "Genji",
+            "color": "#91c23b"
+        },
+        {
+            "ID": 311,
+            "name": "Dva",
+            "color": "#f6899c"
+        },
+        {
+            "ID": 312,
+            "name": "Komi Shouko",
+            "color": "#7a6adb"
+        },
+        {
+            "ID": 313,
+            "name": "Najimi Osana",
+            "color": "#b26adb"
+        },
+        {
+            "ID": 314,
+            "name": "Damian Desmond",
+            "color": "#de484c"
+        },
+        {
+            "ID": 315,
+            "name": "Anya Forger",
+            "color": "#7fcbb6"
+        },
+        {
+            "ID": 316,
+            "name": "Hyakkimaru",
+            "color": "#b8353c"
+        },
+        {
+            "ID": 317,
+            "name": "Dororo",
+            "color": "#7b9a74"
+        },
+        {
+            "ID": 318,
+            "name": "Gasai Yuno",
+            "color": "#7179cf"
+        },
+        {
+            "ID": 319,
+            "name": "Uryuu Minene",
+            "color": "#9b5ab4"
+        },
+        {
+            "ID": 320,
+            "name": "Suzuki iruma",
+            "color": "#3fafe8"
+        },
+        {
+            "ID": 321,
+            "name": "Opera",
+            "color": "#d13d33"
+        },
+        {
+            "ID": 322,
+            "name": "Killua zoldyck",
+            "color": "#596890"
+        },
+        {
+            "ID": 323,
+            "name": "Kurapika",
+            "color": "#497cf2"
+        },
+        {
+            "ID": 324,
+            "name": "Hisoka Morow",
+            "color": "#f05c80"
+        },
+        {
+            "ID": 325,
+            "name": "Tohno Shiki",
+            "color": "#4470d6"
+        },
+        {
+            "ID": 326,
+            "name": "Arcueid Brunestud",
+            "color": "#f8c67e"
+        },
+        {
+            "ID": 327,
+            "name": "Emiya shirou",
+            "color": "#3e4588"
+        },
+        {
+            "ID": 328,
+            "name": "Saber",
+            "color": "#5a9ece"
+        },
+        {
+            "ID": 329,
+            "name": "Sakura saber",
+            "color": "#6ab9be"
+        },
+        {
+            "ID": 330,
+            "name": "Alter saber",
+            "color": "#4950f2"
+        },
+        {
+            "ID": 331,
+            "name": "Yugi",
+            "color": "#47a0e5"
+        },
+        {
+            "ID": 332,
+            "name": "Kaiba",
+            "color": "#1987dc"
+        },
+        {
+            "ID": 333,
+            "name": "Shido Itsuka",
+            "color": "#4d5190"
+        },
+        {
+            "ID": 334,
+            "name": "Shido itsuka",
+            "color": "#5b87bd"
+        },
+        {
+            "ID": 335,
+            "name": "Kurumi",
+            "color": "#4d5190"
+        },
+        {
+            "ID": 336,
+            "name": "Kotori",
+            "color": "#ed9595"
+        },
+        {
+            "ID": 337,
+            "name": "Mukuro Hoshimiya",
+            "color": "#f5b274"
+        },
+        {
+            "ID": 338,
+            "name": "Origami tobiichi",
+            "color": "#6c9ec9"
+        },
+        {
+            "ID": 339,
+            "name": "Yuu otosaka",
+            "color": "#87635f"
+        },
+        {
+            "ID": 340,
+            "name": "Nao midorikawa",
+            "color": "#7cd252"
+        },
+        {
+            "ID": 341,
+            "name": "Reki Kyan",
+            "color": "#5a9ece"
+        },
+        {
+            "ID": 342,
+            "name": "Miya Chinen",
+            "color": "#97db34"
+        },
+        {
+            "ID": 343,
+            "name": "Gin",
+            "color": "#999"
+        },
+        {
+            "ID": 344,
+            "name": "Takegawa hotaru",
+            "color": "#82d8f0"
+        },
+        {
+            "ID": 345,
+            "name": "Nora noragami",
+            "color": "#ce2f24"
+        },
+        {
+            "ID": 346,
+            "name": "Yato noragami",
+            "color": "#505061"
+        },
+        {
+            "ID": 347,
+            "name": "Hanako",
+            "color": "#845c5c"
+        },
+        {
+            "ID": 348,
+            "name": "Yako",
+            "color": "#f05c80"
+        },
+        {
+            "ID": 349,
+            "name": "Akane aoi",
+            "color": "#a684d1"
+        },
+        {
+            "ID": 350,
+            "name": "Sakura nanamine",
+            "color": "#9fb764"
+        },
+        {
+            "ID": 351,
+            "name": "Laika",
+            "color": "#e73441"
+        },
+        {
+            "ID": 352,
+            "name": "Flatorte",
+            "color": "#6f39e1"
+        },
+        {
+            "ID": 353,
+            "name": "Beelzebub",
+            "color": "#bc4d53"
+        },
+        {
+            "ID": 354,
+            "name": "Azusa",
+            "color": "#346cfd"
+        },
+        {
+            "ID": 355,
+            "name": "Yui hirasawa",
+            "color": "#f3af5f"
+        },
+        {
+            "ID": 356,
+            "name": "Lugh tuatha-de",
+            "color": "#6480db"
+        },
+        {
+            "ID": 357,
+            "name": "Dia Vicorne",
+            "color": "#76d9e0"
+        },
+        {
+            "ID": 358,
+            "name": "Reiji",
+            "color": "#478cff"
+        },
+        {
+            "ID": 359,
+            "name": "SEI iori",
+            "color": "#70cac8"
+        },
+        {
+            "ID": 360,
+            "name": "Valt aoi",
+            "color": "#438be2"
+        },
+        {
+            "ID": 361,
+            "name": "Free de-la-hoya",
+            "color": "#efc122"
+        },
+        {
+            "ID": 362,
+            "name": "Tatsuya shiba",
+            "color": "#48c7aa"
+        },
+        {
+            "ID": 363,
+            "name": "Miyuki shiba",
+            "color": "#48c7aa"
+        },
+        {
+            "ID": 364,
+            "name": "Arima kousei",
+            "color": "#5fa9c1"
+        },
+        {
+            "ID": 365,
+            "name": "Kaori miyazono",
+            "color": "#82778a"
+        },
+        {
+            "ID": 366,
+            "name": "Shinoa hiragi",
+            "color": "#8f7fa3"
+        },
+        {
+            "ID": 367,
+            "name": "Guren",
+            "color": "#6c809e"
+        },
+        {
+            "ID": 368,
+            "name": "Izumi miyamura",
+            "color": "#2397f0"
+        },
+        {
+            "ID": 369,
+            "name": "Kyouko hori",
+            "color": "#ffb72b"
+        },
+        {
+            "ID": 370,
+            "name": "Jennet",
+            "color": "#f9e182"
+        },
+        {
+            "ID": 371,
+            "name": "Athanasia",
+            "color": "#559fde"
+        },
+        {
+            "ID": 372,
+            "name": "Zero two",
+            "color": "#e85f8a"
+        },
+        {
+            "ID": 373,
+            "name": "Zero two",
+            "color": "#eb7381"
+        },
+        {
+            "ID": 374,
+            "name": "Ichigo",
+            "color": "#76b1db"
+        },
+        {
+            "ID": 375,
+            "name": "Azul Ashengrotto",
+            "color": "#813bd8"
+        },
+        {
+            "ID": 376,
+            "name": "Idia Shroud",
+            "color": "#5ea5f5"
+        },
+        {
+            "ID": 377,
+            "name": "Epel Felmier",
+            "color": "#8e8ae8"
+        },
+        {
+            "ID": 378,
+            "name": "Malleus Draconia",
+            "color": "#6fa142"
+        },
+        {
+            "ID": 379,
+            "name": "Issei hyoudou",
+            "color": "#ef3d3e"
+        },
+        {
+            "ID": 380,
+            "name": "Himejima Akeno",
+            "color": "#9a5fb1"
+        },
+        {
+            "ID": 381,
+            "name": "Rias gremory",
+            "color": "#7656f0"
+        },
+        {
+            "ID": 382,
+            "name": "Renge miyauchi",
+            "color": "#9990c2"
+        },
+        {
+            "ID": 383,
+            "name": "Komari koshigaya",
+            "color": "#ffcb87"
+        },
+        {
+            "ID": 384,
+            "name": "Natsumi koshigaya",
+            "color": "#fb9487"
+        },
+        {
+            "ID": 385,
+            "name": "Hotaru ichijou",
+            "color": "#fb9487"
+        },
+        {
+            "ID": 386,
+            "name": "Tamako Kitashirakawa",
+            "color": "#e69cb3"
+        },
+        {
+            "ID": 387,
+            "name": "Tamako Kitashirakawa",
+            "color": "#71a7d4"
+        },
+        {
+            "ID": 388,
+            "name": "Shiori asagiri",
+            "color": "#6677a6"
+        },
+        {
+            "ID": 389,
+            "name": "Togashi yuuta",
+            "color": "#9c796b"
+        },
+        {
+            "ID": 390,
+            "name": "Rikka",
+            "color": "#62bdc1"
+        },
+        {
+            "ID": 391,
+            "name": "Rikka",
+            "color": "#9777b6"
+        },
+        {
+            "ID": 392,
+            "name": "Dekomori",
+            "color": "#d3b17d"
+        },
+        {
+            "ID": 393,
+            "name": "Nibutani Shinka",
+            "color": "#da3c3f"
+        },
+        {
+            "ID": 394,
+            "name": "Shichimiya",
+            "color": "#f8879e"
+        },
+        {
+            "ID": 395,
+            "name": "Touka Takanashi",
+            "color": "#ce6b81"
+        },
+        {
+            "ID": 396,
+            "name": "Rimuru Tempest",
+            "color": "#5d9bae"
+        },
+        {
+            "ID": 397,
+            "name": "Rimuru Tempest",
+            "color": "#69a6dd"
+        },
+        {
+            "ID": 398,
+            "name": "Rimuru Tempest",
+            "color": "#7698bf"
+        },
+        {
+            "ID": 399,
+            "name": "Shizue izawa",
+            "color": "#44aca6"
+        },
+        {
+            "ID": 400,
+            "name": "Chloe aubert",
+            "color": "#48a1ec"
+        },
+        {
+            "ID": 401,
+            "name": "Shion",
+            "color": "#b681d1"
+        },
+        {
+            "ID": 402,
+            "name": "Shuna",
+            "color": "#e03f70"
+        },
+        {
+            "ID": 403,
+            "name": "Veldora",
+            "color": "#cb3248"
+        },
+        {
+            "ID": 404,
+            "name": "Diablo",
+            "color": "#a0373a"
+        },
+        {
+            "ID": 405,
+            "name": "Benimaru",
+            "color": "#d75447"
+        },
+        {
+            "ID": 406,
+            "name": "Milim",
+            "color": "#dcaaa4"
+        },
+        {
+            "ID": 407,
+            "name": "Nakajima Atsushi",
+            "color": "#6164f0"
+        },
+        {
+            "ID": 408,
+            "name": "Osamu Dazai",
+            "color": "#6e7e9e"
+        },
+        {
+            "ID": 409,
+            "name": "Edogawa Ranpo",
+            "color": "#b57c6f"
+        },
+        {
+            "ID": 410,
+            "name": "Chuuya",
+            "color": "#d43f54"
+        },
+        {
+            "ID": 411,
+            "name": "Yosano akiko",
+            "color": "#7b8ed4"
+        },
+        {
+            "ID": 412,
+            "name": "Kyouka izumi",
+            "color": "#f7bc56"
+        },
+        {
+            "ID": 413,
+            "name": "Satou kazuma",
+            "color": "#5e9794"
+        },
+        {
+            "ID": 414,
+            "name": "Aqua",
+            "color": "#67a3df"
+        },
+        {
+            "ID": 415,
+            "name": "Megumin",
+            "color": "#d75151"
+        },
+        {
+            "ID": 416,
+            "name": "Darkness",
+            "color": "#f1c16c"
+        },
+        {
+            "ID": 417,
+            "name": "Satoru gojo",
+            "color": "#746294"
+        },
+        {
+            "ID": 418,
+            "name": "Sukuna",
+            "color": "#c66163"
+        },
+        {
+            "ID": 419,
+            "name": "Itadori yuji",
+            "color": "#df5059"
+        },
+        {
+            "ID": 420,
+            "name": "Mahito",
+            "color": "#7d919a"
+        },
+        {
+            "ID": 421,
+            "name": "Megumi",
+            "color": "#778aa4"
+        },
+        {
+            "ID": 422,
+            "name": "Nobara kugisaki",
+            "color": "#8658b4"
+        },
+        {
+            "ID": 423,
+            "name": "Maki Zenin",
+            "color": "#3a8270"
+        },
+        {
+            "ID": 424,
+            "name": "Toge inumaki",
+            "color": "#5d6595"
+        },
+        {
+            "ID": 425,
+            "name": "Mechamaru",
+            "color": "#5fb84a"
+        },
+        {
+            "ID": 426,
+            "name": "Miwa Kasumi",
+            "color": "#4dbfef"
+        },
+        {
+            "ID": 427,
+            "name": "Asta",
+            "color": "#413b3b"
+        },
+        {
+            "ID": 428,
+            "name": "Yuta okkotsu",
+            "color": "#4187d6"
+        },
+        {
+            "ID": 429,
+            "name": "Yuno",
+            "color": "#338f44"
+        },
+        {
+            "ID": 430,
+            "name": "Nero",
+            "color": "#515da3"
+        },
+        {
+            "ID": 431,
+            "name": "Noelle",
+            "color": "#9144cc"
+        },
+        {
+            "ID": 432,
+            "name": "Luck voltia",
+            "color": "#5997a5"
+        },
+        {
+            "ID": 433,
+            "name": "Mereoleona",
+            "color": "#d26d41"
+        },
+        {
+            "ID": 434,
+            "name": "Kirito",
+            "color": "#6cc9da"
+        },
+        {
+            "ID": 435,
+            "name": "Kirito",
+            "color": "#41bfb5"
+        },
+        {
+            "ID": 436,
+            "name": "Kirito",
+            "color": "#5998a8"
+        },
+        {
+            "ID": 437,
+            "name": "Asuna",
+            "color": "#f75148"
+        },
+        {
+            "ID": 438,
+            "name": "Kirito ggo",
+            "color": "#a15aea"
+        },
+        {
+            "ID": 439,
+            "name": "Yuuki",
+            "color": "#c870d3"
+        },
+        {
+            "ID": 440,
+            "name": "Alice zuberg",
+            "color": "#f75148"
+        },
+        {
+            "ID": 441,
+            "name": "Asada shino",
+            "color": "#70cac0"
+        },
+        {
+            "ID": 442,
+            "name": "Eugeo",
+            "color": "#40b6e2"
+        },
+        {
+            "ID": 443,
+            "name": "Argo",
+            "color": "#72c757"
+        },
+        {
+            "ID": 444,
+            "name": "Suguha",
+            "color": "#71b2b1"
+        },
+        {
+            "ID": 445,
+            "name": "Kirito summer",
+            "color": "#72d2dd"
+        },
+        {
+            "ID": 446,
+            "name": "Silica summer",
+            "color": "#72c3dd"
+        },
+        {
+            "ID": 447,
+            "name": "Yui",
+            "color": "#e69cb3"
+        },
+        {
+            "ID": 448,
+            "name": "Midoriya",
+            "color": "#3b867a"
+        },
+        {
+            "ID": 449,
+            "name": "Todoroki Shouto",
+            "color": "#2581ff"
+        },
+        {
+            "ID": 450,
+            "name": "Todoroki Shouto",
+            "color": "#575468"
+        },
+        {
+            "ID": 451,
+            "name": "Denki",
+            "color": "#ffc844"
+        },
+        {
+            "ID": 452,
+            "name": "Bakugou",
+            "color": "#556b71"
+        },
+        {
+            "ID": 453,
+            "name": "Jiro Kyoka",
+            "color": "#6c69d9"
+        },
+        {
+            "ID": 454,
+            "name": "Camie Utsushimi",
+            "color": "#f6b544"
+        },
+        {
+            "ID": 455,
+            "name": "Keigo Takami",
+            "color": "#cb4c35"
+        },
+        {
+            "ID": 456,
+            "name": "Toga himiko",
+            "color": "#ed614e"
+        },
+        {
+            "ID": 457,
+            "name": "Dabi",
+            "color": "#394972"
+        },
+        {
+            "ID": 458,
+            "name": "Ochako Uraraka",
+            "color": "#e9709e"
+        },
+        {
+            "ID": 459,
+            "name": "Tenya Iida",
+            "color": "#588bca"
+        },
+        {
+            "ID": 460,
+            "name": "All might",
+            "color": "#50a5af"
+        },
+        {
+            "ID": 461,
+            "name": "TOMURA",
+            "color": "#7295a4"
+        },
+        {
+            "ID": 462,
+            "name": "Tsuyu asui",
+            "color": "#40bc52"
+        },
+        {
+            "ID": 463,
+            "name": "Sayori",
+            "color": "#ec8f80"
+        },
+        {
+            "ID": 464,
+            "name": "Natsuki",
+            "color": "#eda2ab"
+        },
+        {
+            "ID": 465,
+            "name": "Monika",
+            "color": "#6b6cb3"
+        },
+        {
+            "ID": 466,
+            "name": "Yuri",
+            "color": "#967ea8"
+        },
+        {
+            "ID": 467,
+            "name": "Nastuki",
+            "color": "#f089ae"
+        },
+        {
+            "ID": 468,
+            "name": "Nakano ichika",
+            "color": "#81b0d1"
+        },
+        {
+            "ID": 469,
+            "name": "Nakano nino",
+            "color": "#8d8ad5"
+        },
+        {
+            "ID": 470,
+            "name": "Nakano miku",
+            "color": "#8d9ee0"
+        },
+        {
+            "ID": 471,
+            "name": "Nakano yotsuba",
+            "color": "#a1b369"
+        },
+        {
+            "ID": 472,
+            "name": "Nakano itsuki",
+            "color": "#d0797f"
+        },
+        {
+            "ID": 473,
+            "name": "Levi",
+            "color": "#4b3b33"
+        },
+        {
+            "ID": 474,
+            "name": "Eren",
+            "color": "#615852"
+        },
+        {
+            "ID": 475,
+            "name": "Eren",
+            "color": "#7c898e"
+        },
+        {
+            "ID": 476,
+            "name": "Mikasa",
+            "color": "#8c664e"
+        },
+        {
+            "ID": 477,
+            "name": "Hanji zoe",
+            "color": "#715f51"
+        },
+        {
+            "ID": 478,
+            "name": "Leonhart",
+            "color": "#949586"
+        },
+        {
+            "ID": 479,
+            "name": "Armin Arlert",
+            "color": "#f6b857"
+        },
+        {
+            "ID": 480,
+            "name": "Pieck Finger",
+            "color": "#a18072"
+        },
+        {
+            "ID": 481,
+            "name": "Tsubasa",
+            "color": "#329dcf"
+        },
+        {
+            "ID": 482,
+            "name": "Wakabayashi",
+            "color": "#ec5353"
+        },
+        {
+            "ID": 483,
+            "name": "Misaki taro",
+            "color": "#356fab"
+        },
+        {
+            "ID": 484,
+            "name": "Mayu",
+            "color": "#b2ac92"
+        },
+        {
+            "ID": 485,
+            "name": "Luo Tianyi",
+            "color": "#61a1dc"
+        },
+        {
+            "ID": 486,
+            "name": "IA",
+            "color": "#f488a2"
+        },
+        {
+            "ID": 487,
+            "name": "Oliver",
+            "color": "#d5bb74"
+        },
+        {
+            "ID": 488,
+            "name": "Mikuo",
+            "color": "#4fc4c2"
+        },
+        {
+            "ID": 489,
+            "name": "Hatsume miku",
+            "color": "#90c3be"
+        },
+        {
+            "ID": 490,
+            "name": "Hatsume miku",
+            "color": "#49cdd9"
+        },
+        {
+            "ID": 491,
+            "name": "Hatsume miku",
+            "color": "#7dcedb"
+        },
+        {
+            "ID": 492,
+            "name": "Gakupo Kamui",
+            "color": "#d192de"
+        },
+        {
+            "ID": 493,
+            "name": "Kaito",
+            "color": "#3294d4"
+        },
+        {
+            "ID": 494,
+            "name": "Yuzuki Yukari",
+            "color": "#d474c2"
+        },
+        {
+            "ID": 495,
+            "name": "Kagamine Len",
+            "color": "#f2d42c"
+        },
+        {
+            "ID": 496,
+            "name": "Kagamine Rin",
+            "color": "#f2d42c"
+        },
+        {
+            "ID": 497,
+            "name": "Suna",
+            "color": "#de322e"
+        },
+        {
+            "ID": 498,
+            "name": "Tsukishima",
+            "color": "#233579"
+        },
+        {
+            "ID": 499,
+            "name": "Hinata Shoyo",
+            "color": "#508cb6"
+        },
+        {
+            "ID": 500,
+            "name": "Kageyama tobio",
+            "color": "#5b4e92"
+        },
+        {
+            "ID": 501,
+            "name": "Tanaka",
+            "color": "#da853e"
+        },
+        {
+            "ID": 502,
+            "name": "Atsumu",
+            "color": "#5274ca"
+        },
+        {
+            "ID": 503,
+            "name": "Yamaguchi Tadashi",
+            "color": "#e78c48"
+        },
+        {
+            "ID": 504,
+            "name": "Sugawara",
+            "color": "#66acd0"
+        },
+        {
+            "ID": 505,
+            "name": "Oikawa tooru",
+            "color": "#4a8a83"
+        },
+        {
+            "ID": 506,
+            "name": "Kunimi Akira",
+            "color": "#5dcbc3"
+        },
+        {
+            "ID": 507,
+            "name": "Satori Tendou",
+            "color": "#cd445a"
+        },
+        {
+            "ID": 508,
+            "name": "Kita",
+            "color": "#a8545f"
+        },
+        {
+            "ID": 509,
+            "name": "Kiyoko Shimizu",
+            "color": "#6bb5c5"
+        },
+        {
+            "ID": 510,
+            "name": "Hitoka yachi",
+            "color": "#c8b28a"
+        },
+        {
+            "ID": 511,
+            "name": "Koro sensei",
+            "color": "#ffca4e"
+        },
+        {
+            "ID": 512,
+            "name": "Karma",
+            "color": "#cc3d3d"
+        },
+        {
+            "ID": 513,
+            "name": "Nagisa",
+            "color": "#6e99c2"
+        },
+        {
+            "ID": 514,
+            "name": "Kayano Kaede",
+            "color": "#75cba2"
+        },
+        {
+            "ID": 515,
+            "name": "Subaru",
+            "color": "#ff9e2e"
+        },
+        {
+            "ID": 516,
+            "name": "Echidna",
+            "color": "#cc9eff"
+        },
+        {
+            "ID": 517,
+            "name": "Rem",
+            "color": "#52a1ff"
+        },
+        {
+            "ID": 518,
+            "name": "Ram",
+            "color": "#f18695"
+        },
+        {
+            "ID": 519,
+            "name": "Felix",
+            "color": "#7bd5eb"
+        },
+        {
+            "ID": 520,
+            "name": "Julius",
+            "color": "#9a77d6"
+        },
+        {
+            "ID": 521,
+            "name": "Pack",
+            "color": "#a987d7"
+        },
+        {
+            "ID": 522,
+            "name": "Reinhard",
+            "color": "#7460da"
+        },
+        {
+            "ID": 523,
+            "name": "Koito Minase",
+            "color": "#dc7bb3"
+        },
+        {
+            "ID": 524,
+            "name": "Saitama",
+            "color": "#e5b646"
+        },
+        {
+            "ID": 525,
+            "name": "Genos",
+            "color": "#f2d04a"
+        },
+        {
+            "ID": 526,
+            "name": "Tatsumaki",
+            "color": "#2d7d48"
+        },
+        {
+            "ID": 527,
+            "name": "Fubuki",
+            "color": "#44756a"
+        },
+        {
+            "ID": 528,
+            "name": "Rokuro Enmado",
+            "color": "#d63f3f"
+        },
+        {
+            "ID": 529,
+            "name": "Benio Adashino",
+            "color": "#824cb8"
+        },
+        {
+            "ID": 530,
+            "name": "Reiji",
+            "color": "#d63f3f"
+        },
+        {
+            "ID": 531,
+            "name": "Legosi",
+            "color": "#598e74"
+        },
+        {
+            "ID": 532,
+            "name": "Rouis",
+            "color": "#eaae6a"
+        },
+        {
+            "ID": 533,
+            "name": "Haru",
+            "color": "#eebeb1"
+        },
+        {
+            "ID": 534,
+            "name": "L lawlie",
+            "color": "#454545"
+        },
+        {
+            "ID": 535,
+            "name": "Death Ryuk",
+            "color": "#5135e0"
+        },
+        {
+            "ID": 536,
+            "name": "Light Yagami",
+            "color": "#d74f3e"
+        },
+        {
+            "ID": 537,
+            "name": "Doraemon",
+            "color": "#58d3e9"
+        },
+        {
+            "ID": 538,
+            "name": "Doraemon",
+            "color": "#3bdbf8"
+        },
+        {
+            "ID": 539,
+            "name": "Doraemon",
+            "color": "#45baeb"
+        },
+        {
+            "ID": 540,
+            "name": "Nobita",
+            "color": "#e6b030"
+        },
+        {
+            "ID": 541,
+            "name": "Shizuka",
+            "color": "#6d97d1"
+        },
+        {
+            "ID": 542,
+            "name": "Doraemi",
+            "color": "#fcbc3f"
+        },
+        {
+            "ID": 543,
+            "name": "Roboko",
+            "color": "#1caabd"
+        },
+        {
+            "ID": 544,
+            "name": "Satoshi",
+            "color": "#288ce0"
+        },
+        {
+            "ID": 545,
+            "name": "Serena",
+            "color": "#e97882"
+        },
+        {
+            "ID": 546,
+            "name": "Pikachu",
+            "color": "#f8ce3a"
+        },
+        {
+            "ID": 547,
+            "name": "Tsutarja",
+            "color": "#abca5b"
+        },
+        {
+            "ID": 548,
+            "name": "Dio",
+            "color": "#0d692b"
+        },
+        {
+            "ID": 549,
+            "name": "Jotaro",
+            "color": "#53544c"
+        },
+        {
+            "ID": 550,
+            "name": "Joseph joestar",
+            "color": "#30b05d"
+        },
+        {
+            "ID": 551,
+            "name": "Jonathan joestar",
+            "color": "#3749ce"
+        },
+        {
+            "ID": 552,
+            "name": "Giorno giovanna",
+            "color": "#b073a7"
+        },
+        {
+            "ID": 553,
+            "name": "Yoshikage kira",
+            "color": "#7a79b2"
+        },
+        {
+            "ID": 554,
+            "name": "Kakyoin",
+            "color": "#516141"
+        },
+        {
+            "ID": 555,
+            "name": "Jolyne",
+            "color": "#6ba940"
+        },
+        {
+            "ID": 556,
+            "name": "Johnny",
+            "color": "#4ea6de"
+        },
+        {
+            "ID": 557,
+            "name": "Josuke",
+            "color": "#396cb1"
+        },
+        {
+            "ID": 558,
+            "name": "Loli",
+            "color": "#3aa3c5"
+        },
+        {
+            "ID": 559,
+            "name": "Conan",
+            "color": "#256ccd"
+        },
+        {
+            "ID": 560,
+            "name": "Conan",
+            "color": "#dd685c"
+        },
+        {
+            "ID": 561,
+            "name": "Conan",
+            "color": "#a47569"
+        },
+        {
+            "ID": 562,
+            "name": "Shinichi",
+            "color": "#55b5ff"
+        },
+        {
+            "ID": 563,
+            "name": "Ran",
+            "color": "#8770b9"
+        },
+        {
+            "ID": 564,
+            "name": "Heiji hattori",
+            "color": "#1991bf"
+        },
+        {
+            "ID": 565,
+            "name": "Haibara Ai",
+            "color": "#56b9de"
+        },
+        {
+            "ID": 566,
+            "name": "Mary sera",
+            "color": "#56a28c"
+        },
+        {
+            "ID": 567,
+            "name": "Gin",
+            "color": "#cf3434"
+        },
+        {
+            "ID": 568,
+            "name": "Aoko",
+            "color": "#c773b9"
+        },
+        {
+            "ID": 569,
+            "name": "Sonoko",
+            "color": "#4c88cb"
+        },
+        {
+            "ID": 570,
+            "name": "Kudo Yukiko",
+            "color": "#c58acf"
+        },
+        {
+            "ID": 571,
+            "name": "Vermouth",
+            "color": "#94a853"
+        },
+        {
+            "ID": 572,
+            "name": "Akai shuichi",
+            "color": "#805086"
+        },
+        {
+            "ID": 573,
+            "name": "Kaito kid",
+            "color": "#292c35"
+        },
+        {
+            "ID": 574,
+            "name": "Kazuha toyama",
+            "color": "#bda481"
+        },
+        {
+            "ID": 575,
+            "name": "Akako koizumi",
+            "color": "#5356be"
+        },
+        {
+            "ID": 576,
+            "name": "Kisaki Eri",
+            "color": "#8181cd"
+        },
+        {
+            "ID": 577,
+            "name": "Takemichi",
+            "color": "#ebbc6b"
+        },
+        {
+            "ID": 578,
+            "name": "Hinata Tachibana",
+            "color": "#e68e92"
+        },
+        {
+            "ID": 579,
+            "name": "Naoto tachibana",
+            "color": "#49a6e1"
+        },
+        {
+            "ID": 580,
+            "name": "Mikey",
+            "color": "#f5c442"
+        },
+        {
+            "ID": 581,
+            "name": "Black mikey",
+            "color": "#b5b5b5"
+        },
+        {
+            "ID": 582,
+            "name": "Emma Sano",
+            "color": "#d6ba62"
+        },
+        {
+            "ID": 583,
+            "name": "Draken",
+            "color": "#1f242a"
+        },
+        {
+            "ID": 584,
+            "name": "Tetta Kisaki",
+            "color": "#caab2f"
+        },
+        {
+            "ID": 585,
+            "name": "Chifuyu Matsuno",
+            "color": "#243231"
+        },
+        {
+            "ID": 586,
+            "name": "Takashi Mitsuya",
+            "color": "#51597d"
+        },
+        {
+            "ID": 587,
+            "name": "Keisuke Baji",
+            "color": "#6b625b"
+        },
+        {
+            "ID": 588,
+            "name": "Keisuke Baji",
+            "color": "#dd3a40"
+        },
+        {
+            "ID": 589,
+            "name": "Haitani ran",
+            "color": "#d1ae59"
+        },
+        {
+            "ID": 590,
+            "name": "Haitani rindou",
+            "color": "#988cb3"
+        },
+        {
+            "ID": 591,
+            "name": "Kawaragi senju",
+            "color": "#9099be"
+        },
+        {
+            "ID": 592,
+            "name": "Izana kurokawa",
+            "color": "#7842f2"
+        },
+        {
+            "ID": 593,
+            "name": "Izana kurokawa",
+            "color": "#746db6"
+        },
+        {
+            "ID": 594,
+            "name": "Kakuchou hitto",
+            "color": "#4a56a2"
+        },
+        {
+            "ID": 595,
+            "name": "Kazutora Hanemiya",
+            "color": "#d7ba61"
+        },
+        {
+            "ID": 596,
+            "name": "Shuji Hanma",
+            "color": "#7d957d"
+        },
+        {
+            "ID": 597,
+            "name": "Shuji Hanma",
+            "color": "#ba4333"
+        },
+        {
+            "ID": 598,
+            "name": "Inui seishu",
+            "color": "#d71e1e"
+        },
+        {
+            "ID": 599,
+            "name": "Imaushi wakasa",
+            "color": "#869592"
+        },
+        {
+            "ID": 600,
+            "name": "Takeomi Akashi",
+            "color": "#8b6b9e"
+        },
+        {
+            "ID": 601,
+            "name": "Nahoya Kawata",
+            "color": "#f78889"
+        },
+        {
+            "ID": 602,
+            "name": "Souya Kawata",
+            "color": "#58cae2"
+        },
+        {
+            "ID": 603,
+            "name": "Haruchiyo Sanzu",
+            "color": "#d7337d"
+        },
+        {
+            "ID": 604,
+            "name": "Shinichiro sano",
+            "color": "#52b8e3"
+        },
+        {
+            "ID": 605,
+            "name": "Hayashida Haruki",
+            "color": "#555"
+        },
+        {
+            "ID": 606,
+            "name": "Ryohei Hayashi",
+            "color": "#8f8457"
+        },
+        {
+            "ID": 607,
+            "name": "Akane inui",
+            "color": "#ccb89f"
+        },
+        {
+            "ID": 608,
+            "name": "Yuzuha shiba",
+            "color": "#f09da5"
+        },
+        {
+            "ID": 609,
+            "name": "Hakkai shiba",
+            "color": "#638ac3"
+        },
+        {
+            "ID": 610,
+            "name": "Hajime Kokonoi",
+            "color": "#5839cd"
+        },
+        {
+            "ID": 611,
+            "name": "Arashi Keizo",
+            "color": "#e2be2f"
+        },
+        {
+            "ID": 612,
+            "name": "Songoku",
+            "color": "#f69e3f"
+        },
+        {
+            "ID": 613,
+            "name": "Goku ultra-instinct",
+            "color": "#5284b2"
+        },
+        {
+            "ID": 614,
+            "name": "Songoku blue",
+            "color": "#40bec6"
+        },
+        {
+            "ID": 615,
+            "name": "Songoku god",
+            "color": "#e63041"
+        },
+        {
+            "ID": 616,
+            "name": "Songoku ssj1",
+            "color": "#f6c223"
+        },
+        {
+            "ID": 617,
+            "name": "Songoku ssj2",
+            "color": "#f6c223"
+        },
+        {
+            "ID": 618,
+            "name": "Songoku ssj3",
+            "color": "#ffd24a"
+        },
+        {
+            "ID": 619,
+            "name": "Songoku ssj4",
+            "color": "#f74448"
+        },
+        {
+            "ID": 620,
+            "name": "Vegeta",
+            "color": "#223f89"
+        },
+        {
+            "ID": 621,
+            "name": "Gohan",
+            "color": "#326ee3"
+        },
+        {
+            "ID": 622,
+            "name": "Black goku",
+            "color": "#2c2b2f"
+        },
+        {
+            "ID": 623,
+            "name": "Jiren",
+            "color": "#d42b1d"
+        },
+        {
+            "ID": 624,
+            "name": "Hit",
+            "color": "#9b62e2"
+        },
+        {
+            "ID": 625,
+            "name": "Beerus",
+            "color": "#976dbf"
+        },
+        {
+            "ID": 626,
+            "name": "Kefla",
+            "color": "#7fb63f"
+        },
+        {
+            "ID": 627,
+            "name": "Natsu",
+            "color": "#b63232"
+        },
+        {
+            "ID": 628,
+            "name": "Lucy",
+            "color": "#6a8eb5"
+        },
+        {
+            "ID": 629,
+            "name": "Happy",
+            "color": "#53bfde"
+        },
+        {
+            "ID": 630,
+            "name": "Gray",
+            "color": "#1d3c75"
+        },
+        {
+            "ID": 631,
+            "name": "Juvia",
+            "color": "#5383be"
+        },
+        {
+            "ID": 632,
+            "name": "Erza",
+            "color": "#c94c53"
+        },
+        {
+            "ID": 633,
+            "name": "Mirajane",
+            "color": "#947a96"
+        },
+        {
+            "ID": 634,
+            "name": "Zeref",
+            "color": "#55606e"
+        },
+        {
+            "ID": 635,
+            "name": "Mavis Vermilion",
+            "color": "#efb563"
+        },
+        {
+            "ID": 636,
+            "name": "Jellal",
+            "color": "#539cf8"
+        },
+        {
+            "ID": 637,
+            "name": "Mystogan",
+            "color": "#1c3b45"
+        },
+        {
+            "ID": 638,
+            "name": "Laxus",
+            "color": "#6d517e"
+        },
+        {
+            "ID": 639,
+            "name": "Sting eucliffe",
+            "color": "#4d709b"
+        },
+        {
+            "ID": 640,
+            "name": "Wendy",
+            "color": "#7183aa"
+        },
+        {
+            "ID": 641,
+            "name": "Gajeel",
+            "color": "#646a74"
+        },
+        {
+            "ID": 642,
+            "name": "Lyon",
+            "color": "#388cda"
+        },
+        {
+            "ID": 643,
+            "name": "Sherry",
+            "color": "#eb83c1"
+        },
+        {
+            "ID": 644,
+            "name": "Brandish",
+            "color": "#93c972"
+        },
+        {
+            "ID": 645,
+            "name": "Virgo",
+            "color": "#6ec9db"
+        },
+        {
+            "ID": 646,
+            "name": "Luffy",
+            "color": "#f1bc1c"
+        },
+        {
+            "ID": 647,
+            "name": "Luffy",
+            "color": "#ffd146"
+        },
+        {
+            "ID": 648,
+            "name": "Zoro",
+            "color": "#2e483e"
+        },
+        {
+            "ID": 649,
+            "name": "Sanji",
+            "color": "#484538"
+        },
+        {
+            "ID": 650,
+            "name": "Sanji",
+            "color": "#4d6aab"
+        },
+        {
+            "ID": 651,
+            "name": "Ace",
+            "color": "#b63232"
+        },
+        {
+            "ID": 652,
+            "name": "Chopper",
+            "color": "#4bbdd6"
+        },
+        {
+            "ID": 653,
+            "name": "Nico",
+            "color": "#555b8f"
+        },
+        {
+            "ID": 654,
+            "name": "Boa hancock",
+            "color": "#d53053"
+        },
+        {
+            "ID": 655,
+            "name": "Doflamingo",
+            "color": "#d1819f"
+        },
+        {
+            "ID": 656,
+            "name": "Corazon",
+            "color": "#c28386"
+        },
+        {
+            "ID": 657,
+            "name": "Nami",
+            "color": "#34a6b4"
+        },
+        {
+            "ID": 658,
+            "name": "Shanks",
+            "color": "#474e6a"
+        },
+        {
+            "ID": 659,
+            "name": "Trafalgar law",
+            "color": "#efb23e"
+        },
+        {
+            "ID": 660,
+            "name": "Marco",
+            "color": "#bd3eb9"
+        },
+        {
+            "ID": 661,
+            "name": "Katakuri",
+            "color": "#e63e77"
+        },
+        {
+            "ID": 662,
+            "name": "Vinsmoke Niji",
+            "color": "#3f70a8"
+        },
+        {
+            "ID": 663,
+            "name": "Vinsmoke Ichiji",
+            "color": "#b64238"
+        },
+        {
+            "ID": 664,
+            "name": "Vinsmoke yonji",
+            "color": "#63bc43"
+        },
+        {
+            "ID": 665,
+            "name": "Vinsmoke sanji",
+            "color": "#eac545"
+        },
+        {
+            "ID": 666,
+            "name": "Sabo",
+            "color": "#429ddc"
+        },
+        {
+            "ID": 667,
+            "name": "Yamato",
+            "color": "#bd3030"
+        },
+        {
+            "ID": 668,
+            "name": "Kikunojo",
+            "color": "#c874e1"
+        },
+        {
+            "ID": 669,
+            "name": "Kaido rejiu",
+            "color": "#ff82a2"
+        },
+        {
+            "ID": 670,
+            "name": "Edward newgate",
+            "color": "#e12929"
+        },
+        {
+            "ID": 671,
+            "name": "Sengoku",
+            "color": "#6574b4"
+        },
+        {
+            "ID": 672,
+            "name": "Kaido",
+            "color": "#6253ad"
+        },
+        {
+            "ID": 673,
+            "name": "Sakazuki",
+            "color": "#a73c48"
+        },
+        {
+            "ID": 674,
+            "name": "Mihawk",
+            "color": "#3e78e3"
+        },
+        {
+            "ID": 675,
+            "name": "Sir Crocodile",
+            "color": "#7fb63f"
+        },
+        {
+            "ID": 676,
+            "name": "Carrot",
+            "color": "#ef9f77"
+        },
+        {
+            "ID": 677,
+            "name": "Naruto",
+            "color": "#ec7230"
+        },
+        {
+            "ID": 678,
+            "name": "Naruto",
+            "color": "#f5742e"
+        },
+        {
+            "ID": 679,
+            "name": "Naruto kcm2",
+            "color": "#fbbe54"
+        },
+        {
+            "ID": 680,
+            "name": "Sasuke",
+            "color": "#103555"
+        },
+        {
+            "ID": 681,
+            "name": "Sasuke",
+            "color": "#6283a5"
+        },
+        {
+            "ID": 682,
+            "name": "Kakashi",
+            "color": "#626b57"
+        },
+        {
+            "ID": 683,
+            "name": "Haruno Sakura",
+            "color": "#cc7a7f"
+        },
+        {
+            "ID": 684,
+            "name": "Senju Tsunade",
+            "color": "#4c7c60"
+        },
+        {
+            "ID": 685,
+            "name": "Jiraiya",
+            "color": "#834f55"
+        },
+        {
+            "ID": 686,
+            "name": "Boruto",
+            "color": "#1e99e7"
+        },
+        {
+            "ID": 687,
+            "name": "Mitsuki",
+            "color": "#599bd7"
+        },
+        {
+            "ID": 688,
+            "name": "Pain yahiko",
+            "color": "#7d2727"
+        },
+        {
+            "ID": 689,
+            "name": "Nagato",
+            "color": "#981d18"
+        },
+        {
+            "ID": 690,
+            "name": "Konan",
+            "color": "#981d18"
+        },
+        {
+            "ID": 691,
+            "name": "Obito",
+            "color": "#1c4d68"
+        },
+        {
+            "ID": 692,
+            "name": "Kakuzu",
+            "color": "#777"
+        },
+        {
+            "ID": 693,
+            "name": "Deidara",
+            "color": "#c7a548"
+        },
+        {
+            "ID": 694,
+            "name": "Itachi",
+            "color": "#47282b"
+        },
+        {
+            "ID": 695,
+            "name": "Hidan",
+            "color": "#b95e57"
+        },
+        {
+            "ID": 696,
+            "name": "Kisame",
+            "color": "#b95e57"
+        },
+        {
+            "ID": 697,
+            "name": "Sasori",
+            "color": "#b8525b"
+        },
+        {
+            "ID": 698,
+            "name": "Zetsu",
+            "color": "#6f8461"
+        },
+        {
+            "ID": 699,
+            "name": "Orochimaru",
+            "color": "#705c4e"
+        },
+        {
+            "ID": 700,
+            "name": "Tenten",
+            "color": "#47282b"
+        },
+        {
+            "ID": 701,
+            "name": "Kushina",
+            "color": "#9c3c4c"
+        },
+        {
+            "ID": 702,
+            "name": "Minato",
+            "color": "#777"
+        },
+        {
+            "ID": 703,
+            "name": "Gaara",
+            "color": "#85464d"
+        },
+        {
+            "ID": 704,
+            "name": "Hashirama",
+            "color": "#777"
+        },
+        {
+            "ID": 705,
+            "name": "Madara",
+            "color": "#a3645d"
+        },
+        {
+            "ID": 706,
+            "name": "Madara rikudou",
+            "color": "#598e74"
+        },
+        {
+            "ID": 707,
+            "name": "Indra uchiha",
+            "color": "#901b1b"
+        },
+        {
+            "ID": 708,
+            "name": "Shikamaru",
+            "color": "#6f7f5e"
+        },
+        {
+            "ID": 709,
+            "name": "Temari",
+            "color": "#a095b5"
+        },
+        {
+            "ID": 710,
+            "name": "Uchiha shisui",
+            "color": "#595f41"
+        },
+        {
+            "ID": 711,
+            "name": "Uchiha Izuna",
+            "color": "#da3c3f"
+        },
+        {
+            "ID": 712,
+            "name": "Hinata hyuga",
+            "color": "#816e87"
+        },
+        {
+            "ID": 713,
+            "name": "Asuma",
+            "color": "#74795a"
+        },
+        {
+            "ID": 714,
+            "name": "Tobirama",
+            "color": "#3d6499"
+        },
+        {
+            "ID": 715,
+            "name": "Namida",
+            "color": "#ec5c38"
+        },
+        {
+            "ID": 716,
+            "name": "Neji",
+            "color": "#7c8e7c"
+        },
+        {
+            "ID": 717,
+            "name": "Kurama",
+            "color": "#f88e4a"
+        },
+        {
+            "ID": 718,
+            "name": "Hyuga Hanabi",
+            "color": "#a94646"
+        },
+        {
+            "ID": 719,
+            "name": "Rin Nohara",
+            "color": "#cd9e9e"
+        },
+        {
+            "ID": 720,
+            "name": "Iruka",
+            "color": "#517676"
+        },
+        {
+            "ID": 721,
+            "name": "Danzo",
+            "color": "#956fa9"
+        },
+        {
+            "ID": 722,
+            "name": "Izumi uchiha",
+            "color": "#956fa9"
+        },
+        {
+            "ID": 723,
+            "name": "Sai",
+            "color": "#868c9c"
+        },
+        {
+            "ID": 724,
+            "name": "Ashura",
+            "color": "#804852"
+        },
+        {
+            "ID": 725,
+            "name": "Yamato",
+            "color": "#8fa380"
+        },
+        {
+            "ID": 726,
+            "name": "Shino",
+            "color": "#9ba576"
+        },
+        {
+            "ID": 727,
+            "name": "Kiba",
+            "color": "#9ba576"
+        },
+        {
+            "ID": 728,
+            "name": "Ino",
+            "color": "#a67bc7"
+        },
+        {
+            "ID": 729,
+            "name": "Konohamaru",
+            "color": "#69a0aa"
+        },
+        {
+            "ID": 730,
+            "name": "Choji",
+            "color": "#b24b4b"
+        },
+        {
+            "ID": 731,
+            "name": "Sadara",
+            "color": "#c75449"
+        },
+        {
+            "ID": 732,
+            "name": "Kawaki",
+            "color": "#b95768"
+        },
+        {
+            "ID": 733,
+            "name": "Sumire Kakei",
+            "color": "#9575bf"
+        },
+        {
+            "ID": 734,
+            "name": "Himawari",
+            "color": "#64ccea"
+        },
+        {
+            "ID": 735,
+            "name": "Taki",
+            "color": "#539bc5"
+        },
+        {
+            "ID": 736,
+            "name": "Mitsuha",
+            "color": "#8f7fa4"
+        },
+        {
+            "ID": 737,
+            "name": "Cure flora",
+            "color": "#ff64d4"
+        },
+        {
+            "ID": 738,
+            "name": "Cure mermaid",
+            "color": "#5b9ac9"
+        },
+        {
+            "ID": 739,
+            "name": "Cure twinkle",
+            "color": "#fecb40"
+        },
+        {
+            "ID": 740,
+            "name": "Cure scarlet",
+            "color": "#f3365e"
+        },
+        {
+            "ID": 741,
+            "name": "Haruno haruka",
+            "color": "#f46546"
+        },
+        {
+            "ID": 742,
+            "name": "Kaido minami",
+            "color": "#52cdf6"
+        },
+        {
+            "ID": 743,
+            "name": "Amanogawa kirara",
+            "color": "#ffc770"
+        },
+        {
+            "ID": 744,
+            "name": "Akagi towa",
+            "color": "#f78480"
+        },
+        {
+            "ID": 745,
+            "name": "Kaguya Madoka",
+            "color": "#79649d"
+        },
+        {
+            "ID": 746,
+            "name": "Reika aoki",
+            "color": "#4291e9"
+        },
+        {
+            "ID": 747,
+            "name": "Yayoi kise",
+            "color": "#fbd85e"
+        },
+        {
+            "ID": 748,
+            "name": "Akane hino",
+            "color": "#eca748"
+        },
+        {
+            "ID": 749,
+            "name": "Miyuki hoshizora",
+            "color": "#f6abd0"
+        },
+        {
+            "ID": 750,
+            "name": "Laala Manaka",
+            "color": "#d98be7"
+        },
+        {
+            "ID": 751,
+            "name": "Hojo Sophie",
+            "color": "#ff72a6"
+        },
+        {
+            "ID": 752,
+            "name": "Yui Yumekawa",
+            "color": "#f6cb8e"
+        },
+        {
+            "ID": 753,
+            "name": "Yuuki aine",
+            "color": "#5b81d4"
+        },
+        {
+            "ID": 754,
+            "name": "Minato mio",
+            "color": "#5b81d4"
+        },
+        {
+            "ID": 755,
+            "name": "Yume nijino",
+            "color": "#d86f9f"
+        },
+        {
+            "ID": 756,
+            "name": "Hoshimiya Ichigo",
+            "color": "#f499b1"
+        },
+        {
+            "ID": 757,
+            "name": "Mahiru Kasumi",
+            "color": "#f28598"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "apikey": "KANEKIVIP30062007",
+    "name": "Kaneki",
+    "request": "infinite",
+    "type": "premium"
+  },
+  {
+    "apikey": "KANEKIFree_87zDy",
+    "status": true,
+    "name": "hihi",
+    "request": 50000,
+    "type": "free"
+  }
+]
